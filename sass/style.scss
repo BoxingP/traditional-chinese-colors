@@ -1,6 +1,28 @@
 @import "compass/reset";
 @import "compass/css3";
 
-body {
-	font-size: 100%;
+@font-face {
+  font-family: 'FangZhengQingKeBenYueSong';
+  src: url('../resources/FZQKBYSJW.TTF');
 }
+
+body {
+  font-family: 'FangZhengQingKeBenYueSong', Helvetica, sans-serif;
+  font-size: 100%;
+
+  h1 {
+    font-size: 200%;
+  }
+}
+
+section {
+  color: white;
+  h1 {
+    font-size: 150%;
+  }
+}
+
+#daHong {
+  background: #ff2121;
+}
+
