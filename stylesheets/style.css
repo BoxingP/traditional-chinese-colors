@@ -87,6 +87,281 @@ section h1 {
 }
 
 /* line 25, ../sass/style.scss */
-#daHong {
-  background: #ff2121;
+#red {
+  background: #FF2121;
+}
+
+/* line 29, ../sass/style.scss */
+#pink {
+  background: #FFb3a7;
+}
+
+/* line 33, ../sass/style.scss */
+#princess {
+  background: #ED5736;
+}
+
+/* line 37, ../sass/style.scss */
+#magenta {
+  background: #F00056;
+}
+
+/* line 41, ../sass/style.scss */
+#peach {
+  background: #F47983;
+}
+
+/* line 45, ../sass/style.scss */
+#begonia {
+  background: #DB5A6B;
+}
+
+/* line 49, ../sass/style.scss */
+#garnet {
+  background: #F20C00;
+}
+
+/* line 53, ../sass/style.scss */
+#cherry {
+  background: #C93756;
+}
+
+/* line 57, ../sass/style.scss */
+#yin {
+  background: #F05654;
+}
+
+/* line 61, ../sass/style.scss */
+#deepPlum {
+  background: #8C4356;
+}
+
+/* line 65, ../sass/style.scss */
+#crimson {
+  background: #C83C23;
+}
+
+/* line 69, ../sass/style.scss */
+#rouge {
+  background: #9D2933;
+}
+
+/* line 73, ../sass/style.scss */
+#vermilion {
+  background: #FF4C00;
+}
+
+/* line 77, ../sass/style.scss */
+#dan {
+  background: #FF4E20;
+}
+
+/* line 81, ../sass/style.scss */
+#tong {
+  background: #F35336;
+}
+
+/* line 85, ../sass/style.scss */
+#qian {
+  background: #CB3A56;
+}
+
+/* line 89, ../sass/style.scss */
+#fire {
+  background: #FF2D51;
+}
+
+/* line 93, ../sass/style.scss */
+#he {
+  background: #FFb3a7;
+}
+
+/* line 97, ../sass/style.scss */
+#flower {
+  background: #EF7A82;
+}
+
+/* line 101, ../sass/style.scss */
+#yang {
+  background: #FF0097;
+}
+
+/* line 105, ../sass/style.scss */
+#yan {
+  background: #FF3300;
+}
+
+/* line 109, ../sass/style.scss */
+#chi {
+  background: #C3272B;
+}
+
+/* line 113, ../sass/style.scss */
+#wan {
+  background: #A98175;
+}
+
+/* line 117, ../sass/style.scss */
+#claret {
+  background: #C32136;
+}
+
+/* line 121, ../sass/style.scss */
+#sandalwood {
+  background: #B36D61;
+}
+
+/* line 125, ../sass/style.scss */
+#darkRed {
+  background: #BE002F;
+}
+
+/* line 129, ../sass/style.scss */
+#flushed {
+  background: #DC3023;
+}
+
+/* line 133, ../sass/style.scss */
+#blush {
+  background: #F9906F;
+}
+
+/* line 137, ../sass/style.scss */
+#lightYellow {
+  background: #FFF143;
+}
+
+/* line 141, ../sass/style.scss */
+#duck {
+  background: #FAFF72;
+}
+
+/* line 145, ../sass/style.scss */
+#primrose {
+  background: #EAFF56;
+}
+
+/* line 149, ../sass/style.scss */
+#apricot {
+  background: #FFA631;
+}
+
+/* line 153, ../sass/style.scss */
+#apricotRed {
+  background: #FF8C31;
+}
+
+/* line 157, ../sass/style.scss */
+#orange {
+  background: #FF8936;
+}
+
+/* line 161, ../sass/style.scss */
+#orangeYellow {
+  background: #FFA400;
+}
+
+/* line 165, ../sass/style.scss */
+#orangeRed {
+  background: #FF7500;
+}
+
+/* line 169, ../sass/style.scss */
+#turmeric {
+  background: #FFC773;
+}
+
+/* line 173, ../sass/style.scss */
+#paleYellow {
+  background: #F0C239;
+}
+
+/* line 177, ../sass/style.scss */
+#orangeColor {
+  background: #FA8C35;
+}
+
+/* line 181, ../sass/style.scss */
+#tea {
+  background: #B35C44;
+}
+
+/* line 185, ../sass/style.scss */
+#lightTon {
+  background: #A88462;
+}
+
+/* line 189, ../sass/style.scss */
+#dim {
+  background: #C89B40;
+}
+
+/* line 193, ../sass/style.scss */
+#maroon {
+  background: #60281E;
+}
+
+/* line 197, ../sass/style.scss */
+#brown {
+  background: #B25D25;
+}
+
+/* line 201, ../sass/style.scss */
+#brownGreen {
+  background: #827100;
+}
+
+/* line 205, ../sass/style.scss */
+#brownBlack {
+  background: #7C4B00;
+}
+
+/* line 209, ../sass/style.scss */
+#brownRed {
+  background: #9B4400;
+}
+
+/* line 213, ../sass/style.scss */
+#brownYellow {
+  background: #AE7000;
+}
+
+/* line 217, ../sass/style.scss */
+#ocher {
+  background: #9C5333;
+}
+
+/* line 221, ../sass/style.scss */
+#ocherColor {
+  background: #955539;
+}
+
+/* line 225, ../sass/style.scss */
+#amber {
+  background: #CA6924;
+}
+
+/* line 229, ../sass/style.scss */
+#brownColor {
+  background: #6E511E;
+}
+
+/* line 233, ../sass/style.scss */
+#withered {
+  background: #D3B170;
+}
+
+/* line 237, ../sass/style.scss */
+#sumac {
+  background: #E29C45;
+}
+
+/* line 241, ../sass/style.scss */
+#autumn {
+  background: #896C39;
+}
+
+/* line 245, ../sass/style.scss */
+#scholar {
+  background: #D9B611;
 }
