@@ -9,16 +9,26 @@
 body {
   font-family: 'FangZhengQingKeBenYueSong', Helvetica, sans-serif;
   font-size: 100%;
+  color: #000000;
 
-  h1 {
+  header {
     font-size: 200%;
   }
-}
 
-article {
-  color: white;
-  h1 {
-    font-size: 150%;
+  article {
+    header {
+      width: 5%;
+      float: left;
+      position: relative;
+    }
+
+    section {
+      font-size: 150%;
+      color: white;
+      width: 95%;
+      position: relative;
+      float: left;
+    }
   }
 }
 
