@@ -75,829 +75,882 @@ body {
 }
 /* line 14, ../sass/style.scss */
 body header {
-  font-size: 200%;
+  font-size: 300%;
 }
 /* line 19, ../sass/style.scss */
 body article header {
-  width: 5%;
+  width: 10%;
   float: left;
   position: relative;
+  color: white;
 }
-/* line 25, ../sass/style.scss */
+/* line 24, ../sass/style.scss */
+body article header p {
+  width: 20%;
+}
+/* line 29, ../sass/style.scss */
 body article section {
   font-size: 150%;
   color: white;
-  width: 95%;
+  width: 90%;
   position: relative;
   float: left;
 }
 
-/* line 35, ../sass/style.scss */
+/* line 41, ../sass/style.scss */
+#redGroup header {
+  height: 1584px;
+  background-image: url("../resources/red.png");
+}
+
+/* line 48, ../sass/style.scss */
+#orangeGroup header {
+  height: 816px;
+  background-image: url("../resources/orange.png");
+}
+
+/* line 55, ../sass/style.scss */
+#yellowGroup header {
+  height: 864px;
+  background-image: url("../resources/yellow.png");
+}
+
+/* line 62, ../sass/style.scss */
+#greenGroup header {
+  height: 1104px;
+  background-image: url("../resources/green.png");
+}
+
+/* line 69, ../sass/style.scss */
+#qingGroup header {
+  height: 864px;
+  background-image: url("../resources/qing.png");
+}
+
+/* line 76, ../sass/style.scss */
+#blueGroup header {
+  height: 672px;
+  background-image: url("../resources/blue.png");
+}
+
+/* line 83, ../sass/style.scss */
+#purpleGroup header {
+  height: 576px;
+  background-image: url("../resources/purple.png");
+}
+
+/* line 90, ../sass/style.scss */
+#grayGroup header {
+  height: 1152px;
+  background-image: url("../resources/gray.png");
+}
+
+/* line 96, ../sass/style.scss */
 #red {
   background: #FF2121;
 }
 
-/* line 39, ../sass/style.scss */
+/* line 100, ../sass/style.scss */
 #pink {
   background: #FFB3A7;
 }
 
-/* line 43, ../sass/style.scss */
+/* line 104, ../sass/style.scss */
 #princess {
   background: #ED5736;
 }
 
-/* line 47, ../sass/style.scss */
+/* line 108, ../sass/style.scss */
 #magenta {
   background: #F00056;
 }
 
-/* line 51, ../sass/style.scss */
+/* line 112, ../sass/style.scss */
 #peach {
   background: #F47983;
 }
 
-/* line 55, ../sass/style.scss */
+/* line 116, ../sass/style.scss */
 #begonia {
   background: #DB5A6B;
 }
 
-/* line 59, ../sass/style.scss */
+/* line 120, ../sass/style.scss */
 #garnet {
   background: #F20C00;
 }
 
-/* line 63, ../sass/style.scss */
+/* line 124, ../sass/style.scss */
 #cherry {
   background: #C93756;
 }
 
-/* line 67, ../sass/style.scss */
+/* line 128, ../sass/style.scss */
 #yin {
   background: #F05654;
 }
 
-/* line 71, ../sass/style.scss */
+/* line 132, ../sass/style.scss */
 #deepPlum {
   background: #8C4356;
 }
 
-/* line 75, ../sass/style.scss */
+/* line 136, ../sass/style.scss */
 #crimson {
   background: #C83C23;
 }
 
-/* line 79, ../sass/style.scss */
+/* line 140, ../sass/style.scss */
 #rouge {
   background: #9D2933;
 }
 
-/* line 83, ../sass/style.scss */
+/* line 144, ../sass/style.scss */
 #vermilion {
   background: #FF4C00;
 }
 
-/* line 87, ../sass/style.scss */
+/* line 148, ../sass/style.scss */
 #dan {
   background: #FF4E20;
 }
 
-/* line 91, ../sass/style.scss */
+/* line 152, ../sass/style.scss */
 #tong {
   background: #F35336;
 }
 
-/* line 95, ../sass/style.scss */
+/* line 156, ../sass/style.scss */
 #qian {
   background: #CB3A56;
 }
 
-/* line 99, ../sass/style.scss */
+/* line 160, ../sass/style.scss */
 #fire {
   background: #FF2D51;
 }
 
-/* line 103, ../sass/style.scss */
+/* line 164, ../sass/style.scss */
 #he {
   background: #C91F37;
 }
 
-/* line 107, ../sass/style.scss */
+/* line 168, ../sass/style.scss */
 #flower {
   background: #EF7A82;
 }
 
-/* line 111, ../sass/style.scss */
+/* line 172, ../sass/style.scss */
 #yang {
   background: #FF0097;
 }
 
-/* line 115, ../sass/style.scss */
+/* line 176, ../sass/style.scss */
 #yan {
   background: #FF3300;
 }
 
-/* line 119, ../sass/style.scss */
+/* line 180, ../sass/style.scss */
 #chi {
   background: #C3272B;
 }
 
-/* line 123, ../sass/style.scss */
+/* line 184, ../sass/style.scss */
 #wan {
   background: #A98175;
 }
 
-/* line 127, ../sass/style.scss */
+/* line 188, ../sass/style.scss */
 #claret {
   background: #C32136;
 }
 
-/* line 131, ../sass/style.scss */
+/* line 192, ../sass/style.scss */
 #sandalwood {
   background: #B36D61;
 }
 
-/* line 135, ../sass/style.scss */
+/* line 196, ../sass/style.scss */
 #darkRed {
   background: #BE002F;
 }
 
-/* line 139, ../sass/style.scss */
+/* line 200, ../sass/style.scss */
 #flushed {
   background: #DC3023;
 }
 
-/* line 143, ../sass/style.scss */
+/* line 204, ../sass/style.scss */
 #blush {
   background: #F9906F;
 }
 
-/* line 147, ../sass/style.scss */
+/* line 208, ../sass/style.scss */
 #lightYellow {
   background: #FFF143;
 }
 
-/* line 151, ../sass/style.scss */
+/* line 212, ../sass/style.scss */
 #duck {
   background: #FAFF72;
 }
 
-/* line 155, ../sass/style.scss */
+/* line 216, ../sass/style.scss */
 #primrose {
   background: #EAFF56;
 }
 
-/* line 159, ../sass/style.scss */
+/* line 220, ../sass/style.scss */
 #apricot {
   background: #FFA631;
 }
 
-/* line 163, ../sass/style.scss */
+/* line 224, ../sass/style.scss */
 #apricotRed {
   background: #FF8C31;
 }
 
-/* line 167, ../sass/style.scss */
+/* line 228, ../sass/style.scss */
 #orange {
   background: #FF8936;
 }
 
-/* line 171, ../sass/style.scss */
+/* line 232, ../sass/style.scss */
 #orangeYellow {
   background: #FFA400;
 }
 
-/* line 175, ../sass/style.scss */
+/* line 236, ../sass/style.scss */
 #orangeRed {
   background: #FF7500;
 }
 
-/* line 179, ../sass/style.scss */
+/* line 240, ../sass/style.scss */
 #turmeric {
   background: #FFC773;
 }
 
-/* line 183, ../sass/style.scss */
+/* line 244, ../sass/style.scss */
 #paleYellow {
   background: #F0C239;
 }
 
-/* line 187, ../sass/style.scss */
+/* line 248, ../sass/style.scss */
 #orangeColor {
   background: #FA8C35;
 }
 
-/* line 191, ../sass/style.scss */
+/* line 252, ../sass/style.scss */
 #tea {
   background: #B35C44;
 }
 
-/* line 195, ../sass/style.scss */
+/* line 256, ../sass/style.scss */
 #lightTon {
   background: #A88462;
 }
 
-/* line 199, ../sass/style.scss */
+/* line 260, ../sass/style.scss */
 #dim {
   background: #C89B40;
 }
 
-/* line 203, ../sass/style.scss */
+/* line 264, ../sass/style.scss */
 #maroon {
   background: #60281E;
 }
 
-/* line 207, ../sass/style.scss */
+/* line 268, ../sass/style.scss */
 #brown {
   background: #B25D25;
 }
 
-/* line 211, ../sass/style.scss */
+/* line 272, ../sass/style.scss */
 #brownGreen {
   background: #827100;
 }
 
-/* line 215, ../sass/style.scss */
+/* line 276, ../sass/style.scss */
 #brownBlack {
   background: #7C4B00;
 }
 
-/* line 219, ../sass/style.scss */
+/* line 280, ../sass/style.scss */
 #brownRed {
   background: #9B4400;
 }
 
-/* line 223, ../sass/style.scss */
+/* line 284, ../sass/style.scss */
 #brownYellow {
   background: #AE7000;
 }
 
-/* line 227, ../sass/style.scss */
+/* line 288, ../sass/style.scss */
 #ocher {
   background: #9C5333;
 }
 
-/* line 231, ../sass/style.scss */
+/* line 292, ../sass/style.scss */
 #ocherColor {
   background: #955539;
 }
 
-/* line 235, ../sass/style.scss */
+/* line 296, ../sass/style.scss */
 #amber {
   background: #CA6924;
 }
 
-/* line 239, ../sass/style.scss */
+/* line 300, ../sass/style.scss */
 #brownColor {
   background: #6E511E;
 }
 
-/* line 243, ../sass/style.scss */
+/* line 304, ../sass/style.scss */
 #withered {
   background: #D3B17D;
 }
 
-/* line 247, ../sass/style.scss */
+/* line 308, ../sass/style.scss */
 #sumac {
   background: #E29C45;
 }
 
-/* line 251, ../sass/style.scss */
+/* line 312, ../sass/style.scss */
 #autumn {
   background: #896C39;
 }
 
-/* line 255, ../sass/style.scss */
+/* line 316, ../sass/style.scss */
 #scholar {
   background: #D9B611;
 }
 
-/* line 259, ../sass/style.scss */
+/* line 320, ../sass/style.scss */
 #lightGreen {
   background: #BDDD22;
 }
 
-/* line 263, ../sass/style.scss */
+/* line 324, ../sass/style.scss */
 #willowYellow {
   background: #C9DD22;
 }
 
-/* line 267, ../sass/style.scss */
+/* line 328, ../sass/style.scss */
 #willowGreen {
   background: #AFDD22;
 }
 
-/* line 271, ../sass/style.scss */
+/* line 332, ../sass/style.scss */
 #bambooGreen {
   background: #789262;
 }
 
-/* line 275, ../sass/style.scss */
+/* line 336, ../sass/style.scss */
 #onionYellow {
   background: #A3D900;
 }
 
-/* line 279, ../sass/style.scss */
+/* line 340, ../sass/style.scss */
 #onionGreen {
   background: #9ED900;
 }
 
-/* line 283, ../sass/style.scss */
+/* line 344, ../sass/style.scss */
 #greenOnion {
   background: #0EB83A;
 }
 
-/* line 287, ../sass/style.scss */
+/* line 348, ../sass/style.scss */
 #onionBeauty {
   background: #0EB83A;
 }
 
-/* line 291, ../sass/style.scss */
+/* line 352, ../sass/style.scss */
 #scallion {
   background: #0AA344;
 }
 
-/* line 295, ../sass/style.scss */
+/* line 356, ../sass/style.scss */
 #glossyGreen {
   background: #00BC12;
 }
 
-/* line 299, ../sass/style.scss */
+/* line 360, ../sass/style.scss */
 #greenShen {
   background: #0C8918;
 }
 
-/* line 303, ../sass/style.scss */
+/* line 364, ../sass/style.scss */
 #darkGreen {
   background: #009900;
 }
 
-/* line 307, ../sass/style.scss */
+/* line 368, ../sass/style.scss */
 #bi {
   background: #1BD1A5;
 }
 
-/* line 311, ../sass/style.scss */
+/* line 372, ../sass/style.scss */
 #biGreen {
   background: #2ADD9C;
 }
 
-/* line 315, ../sass/style.scss */
+/* line 376, ../sass/style.scss */
 #greenBi {
   background: #48C0A3;
 }
 
-/* line 319, ../sass/style.scss */
+/* line 380, ../sass/style.scss */
 #emerald {
   background: #3DE1AD;
 }
 
-/* line 323, ../sass/style.scss */
+/* line 384, ../sass/style.scss */
 #grassGreen {
   background: #40DE5A;
 }
 
-/* line 327, ../sass/style.scss */
+/* line 388, ../sass/style.scss */
 #qing {
   background: #00E09E;
 }
 
-/* line 331, ../sass/style.scss */
+/* line 392, ../sass/style.scss */
 #greenCui {
   background: #00E079;
 }
 
-/* line 335, ../sass/style.scss */
+/* line 396, ../sass/style.scss */
 #greenWhite {
   background: #C0EBD7;
 }
 
-/* line 339, ../sass/style.scss */
+/* line 400, ../sass/style.scss */
 #duckEgg {
   background: #E0EEE8;
 }
 
-/* line 343, ../sass/style.scss */
+/* line 404, ../sass/style.scss */
 #crab {
   background: #BBCDC5;
 }
 
-/* line 347, ../sass/style.scss */
+/* line 408, ../sass/style.scss */
 #ya {
   background: #424C50;
 }
 
-/* line 351, ../sass/style.scss */
+/* line 412, ../sass/style.scss */
 #green {
   background: #00E500;
 }
 
-/* line 355, ../sass/style.scss */
+/* line 416, ../sass/style.scss */
 #pea {
   background: #9ED048;
 }
 
-/* line 359, ../sass/style.scss */
+/* line 420, ../sass/style.scss */
 #peaGreen {
   background: #96CE54;
 }
 
-/* line 363, ../sass/style.scss */
+/* line 424, ../sass/style.scss */
 #rock {
   background: #7BCFA6;
 }
 
-/* line 367, ../sass/style.scss */
+/* line 428, ../sass/style.scss */
 #jade {
   background: #2EDFA3;
 }
 
-/* line 371, ../sass/style.scss */
+/* line 432, ../sass/style.scss */
 #misty {
   background: #7FECAD;
 }
 
-/* line 375, ../sass/style.scss */
+/* line 436, ../sass/style.scss */
 #ai {
   background: #A4E2C6;
 }
 
-/* line 379, ../sass/style.scss */
+/* line 440, ../sass/style.scss */
 #loose {
   background: #21A675;
 }
 
-/* line 383, ../sass/style.scss */
+/* line 444, ../sass/style.scss */
 #songhuaGreen {
   background: #057748;
 }
 
-/* line 387, ../sass/style.scss */
+/* line 448, ../sass/style.scss */
 #songhua {
   background: #BCE672;
 }
 
-/* line 391, ../sass/style.scss */
+/* line 452, ../sass/style.scss */
 #blue {
   background: #44CEF6;
 }
 
-/* line 395, ../sass/style.scss */
+/* line 456, ../sass/style.scss */
 #darkBlueGreen {
   background: #177CB0;
 }
 
-/* line 399, ../sass/style.scss */
+/* line 460, ../sass/style.scss */
 #indigo {
   background: #065279;
 }
 
-/* line 403, ../sass/style.scss */
+/* line 464, ../sass/style.scss */
 #blueGreen {
   background: #3EEDE7;
 }
 
-/* line 407, ../sass/style.scss */
+/* line 468, ../sass/style.scss */
 #weiBlue {
   background: #70F3FF;
 }
 
-/* line 411, ../sass/style.scss */
+/* line 472, ../sass/style.scss */
 #sapphire {
   background: #4B5CC4;
 }
 
-/* line 415, ../sass/style.scss */
+/* line 476, ../sass/style.scss */
 #blueGray {
   background: #A1AFC9;
 }
 
-/* line 419, ../sass/style.scss */
+/* line 480, ../sass/style.scss */
 #darkQing {
   background: #2E4E7E;
 }
 
-/* line 423, ../sass/style.scss */
+/* line 484, ../sass/style.scss */
 #darkBlue {
   background: #3B2E7E;
 }
 
-/* line 427, ../sass/style.scss */
+/* line 488, ../sass/style.scss */
 #dai {
   background: #4A4266;
 }
 
-/* line 431, ../sass/style.scss */
+/* line 492, ../sass/style.scss */
 #daiLuo {
   background: #4A4266;
 }
 
-/* line 435, ../sass/style.scss */
+/* line 496, ../sass/style.scss */
 #daiGreen {
   background: #426666;
 }
 
-/* line 439, ../sass/style.scss */
+/* line 500, ../sass/style.scss */
 #daiBlue {
   background: #425066;
 }
 
-/* line 443, ../sass/style.scss */
+/* line 504, ../sass/style.scss */
 #daiPurple {
   background: #574266;
 }
 
-/* line 447, ../sass/style.scss */
+/* line 508, ../sass/style.scss */
 #purple {
   background: #8D4BBB;
 }
 
-/* line 451, ../sass/style.scss */
+/* line 512, ../sass/style.scss */
 #purpleJiang {
   background: #815463;
 }
 
-/* line 455, ../sass/style.scss */
+/* line 516, ../sass/style.scss */
 #jiangPurple {
   background: #815476;
 }
 
-/* line 459, ../sass/style.scss */
+/* line 520, ../sass/style.scss */
 #rosewood {
   background: #4C211B;
 }
 
-/* line 463, ../sass/style.scss */
+/* line 524, ../sass/style.scss */
 #ganQing {
   background: #003371;
 }
 
-/* line 467, ../sass/style.scss */
+/* line 528, ../sass/style.scss */
 #purpleTang {
   background: #56004F;
 }
 
-/* line 471, ../sass/style.scss */
+/* line 532, ../sass/style.scss */
 #qingLotus {
   background: #801DAE;
 }
 
-/* line 475, ../sass/style.scss */
+/* line 536, ../sass/style.scss */
 #ultramarine {
   background: #4C8DAE;
 }
 
-/* line 479, ../sass/style.scss */
+/* line 540, ../sass/style.scss */
 #snowQing {
   background: #B0A4E3;
 }
 
-/* line 483, ../sass/style.scss */
+/* line 544, ../sass/style.scss */
 #lilac {
   background: #CCA4E3;
 }
 
-/* line 487, ../sass/style.scss */
+/* line 548, ../sass/style.scss */
 #ou {
   background: #EDD1D8;
 }
 
-/* line 491, ../sass/style.scss */
+/* line 552, ../sass/style.scss */
 #ouHe {
   background: #E4C6D0;
 }
 
-/* line 495, ../sass/style.scss */
+/* line 556, ../sass/style.scss */
 #cang {
   background: #75878A;
 }
 
-/* line 499, ../sass/style.scss */
+/* line 560, ../sass/style.scss */
 #cangCui {
   background: #519A73;
 }
 
-/* line 503, ../sass/style.scss */
+/* line 564, ../sass/style.scss */
 #cangYellow {
   background: #A29B7C;
 }
 
-/* line 507, ../sass/style.scss */
+/* line 568, ../sass/style.scss */
 #cangQing {
   background: #7397AB;
 }
 
-/* line 511, ../sass/style.scss */
+/* line 572, ../sass/style.scss */
 #cangBlack {
   background: #395260;
 }
 
-/* line 515, ../sass/style.scss */
+/* line 576, ../sass/style.scss */
 #cangWhite {
   background: #D1D9E0;
 }
 
-/* line 519, ../sass/style.scss */
+/* line 580, ../sass/style.scss */
 #water {
   background: #88ADA6;
 }
 
-/* line 523, ../sass/style.scss */
+/* line 584, ../sass/style.scss */
 #waterRed {
   background: #F3D3E7;
 }
 
-/* line 527, ../sass/style.scss */
+/* line 588, ../sass/style.scss */
 #waterGreen {
   background: #D4F2E7;
 }
 
-/* line 531, ../sass/style.scss */
+/* line 592, ../sass/style.scss */
 #waterBlue {
   background: #D2F0F4;
 }
 
-/* line 535, ../sass/style.scss */
+/* line 596, ../sass/style.scss */
 #danQing {
   background: #D3E0F3;
 }
 
-/* line 539, ../sass/style.scss */
+/* line 600, ../sass/style.scss */
 #lakeBlue {
   background: #30DFF3;
 }
 
-/* line 543, ../sass/style.scss */
+/* line 604, ../sass/style.scss */
 #lakeGreen {
   background: #25F8CD;
 }
 
-/* line 547, ../sass/style.scss */
+/* line 608, ../sass/style.scss */
 #pureWhite {
   background: #FFFFFF;
 }
 
-/* line 551, ../sass/style.scss */
+/* line 612, ../sass/style.scss */
 #ivoryWhite {
   background: #FFFBF0;
 }
 
-/* line 555, ../sass/style.scss */
+/* line 616, ../sass/style.scss */
 #snowWhite {
   background: #F0FCFF;
 }
 
-/* line 559, ../sass/style.scss */
+/* line 620, ../sass/style.scss */
 #moonWhite {
   background: #D6ECF0;
 }
 
-/* line 563, ../sass/style.scss */
+/* line 624, ../sass/style.scss */
 #gao {
   background: #F2ECDE;
 }
 
-/* line 567, ../sass/style.scss */
+/* line 628, ../sass/style.scss */
 #su {
   background: #E0F0E9;
 }
 
-/* line 571, ../sass/style.scss */
+/* line 632, ../sass/style.scss */
 #tu {
   background: #F3F9F1;
 }
 
-/* line 575, ../sass/style.scss */
+/* line 636, ../sass/style.scss */
 #frost {
   background: #E9F1F6;
 }
 
-/* line 579, ../sass/style.scss */
+/* line 640, ../sass/style.scss */
 #greyDawn {
   background: #FCEFE8;
 }
 
-/* line 583, ../sass/style.scss */
+/* line 644, ../sass/style.scss */
 #ying {
   background: #E3F9FD;
 }
 
-/* line 587, ../sass/style.scss */
+/* line 648, ../sass/style.scss */
 #gray {
   background: #808080;
 }
 
-/* line 591, ../sass/style.scss */
+/* line 652, ../sass/style.scss */
 #tooth {
   background: #EEDEB0;
 }
 
-/* line 595, ../sass/style.scss */
+/* line 656, ../sass/style.scss */
 #leadWhite {
   background: #F0F0F4;
 }
 
-/* line 599, ../sass/style.scss */
+/* line 660, ../sass/style.scss */
 #xuan {
   background: #622A1D;
 }
 
-/* line 603, ../sass/style.scss */
+/* line 664, ../sass/style.scss */
 #xuanQing {
   background: #3D3B4F;
 }
 
-/* line 607, ../sass/style.scss */
+/* line 668, ../sass/style.scss */
 #wu {
   background: #725E82;
 }
 
-/* line 611, ../sass/style.scss */
+/* line 672, ../sass/style.scss */
 #wuBlack {
   background: #392F41;
 }
 
-/* line 615, ../sass/style.scss */
+/* line 676, ../sass/style.scss */
 #qiBlack {
   background: #161823;
 }
 
-/* line 619, ../sass/style.scss */
+/* line 680, ../sass/style.scss */
 #mo {
   background: #50616D;
 }
 
-/* line 623, ../sass/style.scss */
+/* line 684, ../sass/style.scss */
 #moGray {
   background: #758A99;
 }
 
-/* line 627, ../sass/style.scss */
+/* line 688, ../sass/style.scss */
 #black {
   background: #000000;
 }
 
-/* line 631, ../sass/style.scss */
+/* line 692, ../sass/style.scss */
 #zi {
   background: #493131;
 }
 
-/* line 635, ../sass/style.scss */
+/* line 696, ../sass/style.scss */
 #ivoryBlack {
   background: #312520;
 }
 
-/* line 639, ../sass/style.scss */
+/* line 700, ../sass/style.scss */
 #li {
   background: #5D513C;
 }
 
-/* line 643, ../sass/style.scss */
+/* line 704, ../sass/style.scss */
 #daybreak {
   background: #75664D;
 }
 
-/* line 647, ../sass/style.scss */
+/* line 708, ../sass/style.scss */
 #you {
   background: #6B6882;
 }
 
-/* line 651, ../sass/style.scss */
+/* line 712, ../sass/style.scss */
 #youBlack {
   background: #665757;
 }
 
-/* line 655, ../sass/style.scss */
+/* line 716, ../sass/style.scss */
 #an {
   background: #41555D;
 }
 
-/* line 659, ../sass/style.scss */
+/* line 720, ../sass/style.scss */
 #chiGold {
   background: #F2BE45;
 }
 
-/* line 663, ../sass/style.scss */
+/* line 724, ../sass/style.scss */
 #gold {
   background: #EACD76;
 }
 
-/* line 667, ../sass/style.scss */
+/* line 728, ../sass/style.scss */
 #silverWhite {
   background: #E9E7EF;
 }
 
-/* line 671, ../sass/style.scss */
+/* line 732, ../sass/style.scss */
 #verdigris {
   background: #549688;
 }
 
-/* line 675, ../sass/style.scss */
+/* line 736, ../sass/style.scss */
 #wuGold {
   background: #A78E44;
 }
 
-/* line 679, ../sass/style.scss */
+/* line 740, ../sass/style.scss */
 #oldSilver {
   background: #BACAC6;
 }

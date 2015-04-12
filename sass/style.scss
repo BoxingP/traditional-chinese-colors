@@ -12,23 +12,84 @@ body {
   color: #000000;
 
   header {
-    font-size: 200%;
+    font-size: 300%;
   }
 
   article {
     header {
-      width: 5%;
+      width: 10%;
       float: left;
       position: relative;
+      color: white;
+      p {
+        width: 20%;
+      }
     }
 
     section {
       font-size: 150%;
       color: white;
-      width: 95%;
+      width: 90%;
       position: relative;
       float: left;
     }
+  }
+
+}
+
+#redGroup {
+  header {
+    height: 1584px;
+    background-image: url("../resources/red.png");
+  }
+}
+
+#orangeGroup {
+  header {
+    height: 816px;
+    background-image: url("../resources/orange.png");
+  }
+}
+
+#yellowGroup {
+  header {
+    height: 864px;
+    background-image: url("../resources/yellow.png");
+  }
+}
+
+#greenGroup {
+  header {
+    height: 1104px;
+    background-image: url("../resources/green.png");
+  }
+}
+
+#qingGroup {
+  header {
+    height: 864px;
+    background-image: url("../resources/qing.png");
+  }
+}
+
+#blueGroup {
+  header {
+    height: 672px;
+    background-image: url("../resources/blue.png");
+  }
+}
+
+#purpleGroup {
+  header {
+    height: 576px;
+    background-image: url("../resources/purple.png");
+  }
+}
+
+#grayGroup {
+  header {
+    height: 1152px;
+    background-image: url("../resources/gray.png");
   }
 }
 
