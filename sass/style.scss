@@ -21,6 +21,7 @@ body {
       float: left;
       position: relative;
       color: white;
+      text-shadow: -1px 0 #D1D9E0, 0 1px #D1D9E0, 1px 0 #D1D9E0, 0 -1px #D1D9E0;
       p {
         width: 20%;
       }
@@ -607,6 +608,7 @@ body {
 
 #pureWhite {
   background: #FFFFFF;
+  text-shadow: -1px 0 #D1D9E0, 0 1px #D1D9E0, 1px 0 #D1D9E0, 0 -1px #D1D9E0;
 }
 
 #ivoryWhite {
